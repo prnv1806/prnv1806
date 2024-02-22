@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Kumar
-- 👀 I’m interested in aquire knowledge.
+- 👀 I’m interested in acquire knowledge.
 - 🌱 I’m currently learning frontend.
 - 📫 Reach me through my number 7597661895.
 - 😄 Nothing to describe.
